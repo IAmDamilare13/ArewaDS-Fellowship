@@ -1,2 +1,4 @@
 # Cohort-3.0-Python-Programming-Fellowship-Assignments.
-Arewa Data Science Fellowship
+This repository is for Arewa Data Science Fellowship programme
+
+Hi, I am Damilare a Data Scientist.

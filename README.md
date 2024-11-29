@@ -20,8 +20,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |--------------------|--------------|------------------------------------|
 |      Day One     |    Completed   | [Introduction](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_1/helloworld.py) |
 |     Day Two    |   Completed    | [Variables, Built-in Functions](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_2/variables.py) |
-|     Day Three    |    In Progress   | [Operators]() |
-|     Day Four    |    Pending   | [Strings]() |
+|     Day Three    |    Completed   | [Operators](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
+|     Day Four    |    In Pogress   | [Strings]() |
 |     Day Five    |    Pending   | [Lists, Tuples and Sets]() |
 |     Day Six    |    Pending   | [Dictionaries]() |
 |     Day Seven    |    Pending   | [Conditionals]() |

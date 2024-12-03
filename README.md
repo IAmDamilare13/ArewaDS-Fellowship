@@ -21,8 +21,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |      Day One     |    Completed   | [Introduction](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_1/helloworld.py) |
 |     Day Two    |   Completed    | [Variables, Built-in Functions](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_2/variables.py) |
 |     Day Three    |    Completed   | [Operators](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
-|     Day Four    |    In Pogress   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
-|     Day Five    |    Pending   | [Lists, Tuples and Sets]() |
+|     Day Four    |    Completed   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
+|     Day Five    |    In Pogress   | [Lists, Tuples and Sets]() |
 |     Day Six    |    Pending   | [Dictionaries]() |
 |     Day Seven    |    Pending   | [Conditionals]() |
 |     Day Eight    |    Pending   | [Loops]() |
@@ -47,3 +47,10 @@ The only way to improve is to challenge yourself!
 
 🧡🧡🧡 Credits to [Asabeneh](https://testimonial-vdzd.onrender.com)
  🧡🧡🧡
+
+   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>

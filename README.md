@@ -22,8 +22,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Two    |   Completed    | [Variables, Built-in Functions](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_2/variables.py) |
 |     Day Three    |    Completed   | [Operators](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
 |     Day Four    |    Completed   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
-|     Day Five    |    In Pogress   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
-|     Day Six    |    Pending   | [Dictionaries]() |
+|     Day Five    |    Completed   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
+|     Day Six    |    In Pogress   | [Dictionaries]() |
 |     Day Seven    |    Pending   | [Conditionals]() |
 |     Day Eight    |    Pending   | [Loops]() |
 |     Day Nine    |    Pending   | [Functions, List Comprehensions]() |
@@ -39,9 +39,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 
 This 30-day Python Challenge (which has been compressed to 18 days) is not just a simple series of exercises, but an opportunity to build better habits and become more proficient in the language. 
 
-This challenge requires dedication and hard work, it is a great opportunity to take one skills to the next level. It takes great push to stay committed to the challenge. 
+This challenge requires dedication and hard work, and it takes great push to stay committed to the challenge. 
 
-The only way to improve is to challenge yourself!
 
 ---
 

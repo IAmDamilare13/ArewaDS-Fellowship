@@ -23,7 +23,7 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Three    |    Completed   | [Operators](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
 |     Day Four    |    Completed   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
 |     Day Five    |    Completed   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
-|     Day Six    |    In Pogress   | [Dictionaries]() |
+|     Day Six    |    In Pogress   | [Dictionaries](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_6/dictionaries.ipynb) |
 |     Day Seven    |    Pending   | [Conditionals]() |
 |     Day Eight    |    Pending   | [Loops]() |
 |     Day Nine    |    Pending   | [Functions, List Comprehensions]() |

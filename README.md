@@ -24,8 +24,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Four    |    Completed   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
 |     Day Five    |    Completed   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
 |     Day Six    |   Completed    | [Dictionaries](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_6/dictionaries.ipynb) |
-|     Day Seven    |    In Pogress   | [Conditionals]() |
-|     Day Eight    |    Pending   | [Loops]() |
+|     Day Seven    |    Completed   | [Conditionals](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
+|     Day Eight    |    In Pogress   | [Loops]() |
 |     Day Nine    |    Pending   | [Functions, List Comprehensions]() |
 |     Day Ten    |    Pending   | [Higher Order Functions]() |
 |     Day Eleven    |    Pending   | [Python Type Errors and Exception Handling]() |

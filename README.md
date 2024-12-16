@@ -1,13 +1,12 @@
 # Cohort-3.0-Python-Programming-Fellowship-Assignments
 
-
 ![30DaysOfPython](./30DaysOfPython_image.png)
 
 ## About
 
-This is a challenge designed by [Arewa Data Science Academy](https://arewadatascience.github.io) to help improve Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. 
+This is a challenge redesigned by [Arewa Data Science Academy](https://arewadatascience.github.io) though originally put together in the 2nd edition of "Python Programming for Data Science" written by Asabeneh Yetayeh.
 
-Each day presents task that will help in building better habits, and become more proficient in Python, so as to gain a deeper understanding of the language and be able to apply acquired knowledge to real-world problems.
+This challenge helps to improve Python skills through daily exercises inspired by the book "Atomic Habits" by James Clear. Each day presents task that will help in building better habits, and become more proficient in Python, so as to gain a deeper understanding of the language and be able to apply acquired knowledge to real-world problems.
 
 Knowing fully well that **consistency is key**, each task needs to be completed every day to get the most out of the challenge.
 
@@ -25,7 +24,7 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Five    |    Completed   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
 |     Day Six    |   Completed    | [Dictionaries](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_6/dictionaries.ipynb) |
 |     Day Seven    |    Completed   | [Conditionals](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
-|     Day Eight    |    In Pogress   | [Loops]() |
+|     Day Eight    |    In Pogress   | [Loops](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
 |     Day Nine    |    Pending   | [Functions, List Comprehensions]() |
 |     Day Ten    |    Pending   | [Higher Order Functions]() |
 |     Day Eleven    |    Pending   | [Python Type Errors and Exception Handling]() |

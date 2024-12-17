@@ -1,6 +1,6 @@
 # Cohort-3.0-Python-Programming-Fellowship-Assignments
 
-![30DaysOfPython](./30DaysOfPython_image.png)
+![30DaysOfPython](./image.png)
 
 ## About
 
@@ -17,15 +17,15 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 
 |     Day No         |     Status   |Topic                               |
 |--------------------|--------------|------------------------------------|
-|      Day One     |    Completed   | [Introduction](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_1/helloworld.py) |
-|     Day Two    |   Completed    | [Variables, Built-in Functions](https://github.com/IAmDamilare13/ArewaDS-Fellowship/blob/main/30DaysOfPython/day_2/variables.py) |
-|     Day Three    |    Completed   | [Operators](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
-|     Day Four    |    Completed   | [Strings](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
-|     Day Five    |    Completed   | [Lists, Tuples and Sets](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
-|     Day Six    |   Completed    | [Dictionaries](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_6/dictionaries.ipynb) |
-|     Day Seven    |    Completed   | [Conditionals](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
-|     Day Eight    |    In Pogress   | [Loops](https://github.com/IAmDamilare13/ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
-|     Day Nine    |    Pending   | [Functions, List Comprehensions]() |
+|      Day One     |    Completed   | [Introduction](../ArewaDS-Fellowship/30DaysOfPython/day_1/helloworld.py) |
+|     Day Two    |   Completed    | [Variables, Built-in Functions](../ArewaDS-Fellowship/30DaysOfPython/day_2/variables.py) |
+|     Day Three    |    Completed   | [Operators](../ArewaDS-Fellowship/30DaysOfPython/day_3/operators.ipynb) |
+|     Day Four    |    Completed   | [Strings](../ArewaDS-Fellowship/30DaysOfPython/day_4/strings.ipynb) |
+|     Day Five    |    Completed   | [Lists, Tuples and Sets](../ArewaDS-Fellowship/30DaysOfPython/day_5/lists.ipynb) |
+|     Day Six    |   Completed    | [Dictionaries](../ArewaDS-Fellowship/30DaysOfPython/day_6/dictionaries.ipynb) |
+|     Day Seven    |    Completed   | [Conditionals](../ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
+|     Day Eight    |    Completed   | [Loops](../ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
+|     Day Nine    |    In Pogress   | [Functions, List Comprehensions]() |
 |     Day Ten    |    Pending   | [Higher Order Functions]() |
 |     Day Eleven    |    Pending   | [Python Type Errors and Exception Handling]() |
 |     Day Twelve    |    Pending   | [Regular Expressions]() |

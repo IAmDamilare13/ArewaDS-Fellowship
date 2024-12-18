@@ -1,6 +1,6 @@
 # Cohort-3.0-Python-Programming-Fellowship-Assignments
 
-![30DaysOfPython](./image.png)
+![30 days of Python](./image.png)
 
 ## About
 

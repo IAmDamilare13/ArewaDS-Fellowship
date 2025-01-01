@@ -27,9 +27,9 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Eight    |    Completed   | [Loops](../ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
 |     Day Nine    |    Completed   | [Functions, List Comprehensions](../ArewaDS-Fellowship/30DaysOfPython/day_9/functions.ipynb) |
 |     Day Ten    |    Pending   | [Higher Order Functions]() |
-|     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](..ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
-|     Day Twelve    |    In Pogress   | [Regular Expressions]() |
-|     Day Thirteen    |    Pending   | [Python Date Time]() |
+|     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](../ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
+|     Day Twelve    |    Completed   | [Regular Expressions](../ArewaDS-Fellowship/30DaysOfPython/day_12/regular_expression.ipynb) |
+|     Day Thirteen    |    In Pogress   | [Python Date Time]() |
 |     Day Fourteen    |    Pending   | [Modules, Virtual Environment]() |
 |     Day Fifteen    |    Pending   | [Python Package Manager]() |
 |     Day Sixteen    |    Pending   | [Classes and Objects]() |

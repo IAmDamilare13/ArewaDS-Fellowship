@@ -26,13 +26,13 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Seven    |    Completed   | [Conditionals](../ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
 |     Day Eight    |    Completed   | [Loops](../ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
 |     Day Nine    |    Completed   | [Functions, List Comprehensions](../ArewaDS-Fellowship/30DaysOfPython/day_9/functions.ipynb) |
-|     Day Ten    |    Pending   | [Higher Order Functions]() |
+|     Day Ten    |    On Hold   | [Higher Order Functions]() |
 |     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](../ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
 |     Day Twelve    |    Completed   | [Regular Expressions](../ArewaDS-Fellowship/30DaysOfPython/day_12/regular_expression.ipynb) |
-|     Day Thirteen    |    In Pogress   | [Python Date Time]() |
+|     Day Thirteen    |    On Hold   | [Python Date Time](../ArewaDS-Fellowship/30DaysOfPython/day_13/python_datetime_file_handling.ipynb) |
 |     Day Fourteen    |    Pending   | [Modules, Virtual Environment]() |
 |     Day Fifteen    |    Pending   | [Python Package Manager]() |
-|     Day Sixteen    |    Pending   | [Classes and Objects]() |
+|     Day Sixteen    |    In Progress   | [Classes and Objects]() |
 |     Day Seventeen    |    Pending   | [Web Scrapping]() |
 |     Day Eighteen    |    Pending   | [Statistics, NumPy and Pandas]() |
 

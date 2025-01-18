@@ -26,10 +26,10 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Seven    |    Completed   | [Conditionals](../ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
 |     Day Eight    |    Completed   | [Loops](../ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
 |     Day Nine    |    Completed   | [Functions, List Comprehensions](../ArewaDS-Fellowship/30DaysOfPython/day_9/functions.ipynb) |
-|     Day Ten    |    On Hold   | [Higher Order Functions]() |
+|     Day Ten    |    In Progress   | [Higher Order Functions]() |
 |     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](../ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
 |     Day Twelve    |    Completed   | [Regular Expressions](../ArewaDS-Fellowship/30DaysOfPython/day_12/regular_expression.ipynb) |
-|     Day Thirteen    |    In Progress   | [Python Date Time](../ArewaDS-Fellowship/30DaysOfPython/day_13/python_datetime_file_handling.ipynb) |
+|     Day Thirteen    |    Completed   | [Python Date Time](../ArewaDS-Fellowship/30DaysOfPython/day_13/python_datetime_file_handling.ipynb) |
 |     Day Fourteen    |    Pending   | [Modules, Virtual Environment]() |
 |     Day Fifteen    |    Pending   | [Python Package Manager]() |
 |     Day Sixteen    |    Completed   | [Classes and Objects](../ArewaDS-Fellowship/30DaysOfPython/day_16/classes_and_objects.ipynb) |

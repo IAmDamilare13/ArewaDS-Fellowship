@@ -26,7 +26,7 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Seven    |    Completed   | [Conditionals](../ArewaDS-Fellowship/30DaysOfPython/day_7/conditionals.ipynb) |
 |     Day Eight    |    Completed   | [Loops](../ArewaDS-Fellowship/30DaysOfPython/day_8/loops.ipynb) |
 |     Day Nine    |    Completed   | [Functions, List Comprehensions](../ArewaDS-Fellowship/30DaysOfPython/day_9/functions.ipynb) |
-|     Day Ten    |    Completed   | [Higher Order Functions]() |
+|     Day Ten    |    Completed   | [Higher Order Functions](../ArewaDS-Fellowship/30DaysOfPython/day_10/higher_order_functions.ipynb) |
 |     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](../ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
 |     Day Twelve    |    Completed   | [Regular Expressions](../ArewaDS-Fellowship/30DaysOfPython/day_12/regular_expression.ipynb) |
 |     Day Thirteen    |    Completed   | [Python Date Time](../ArewaDS-Fellowship/30DaysOfPython/day_13/python_datetime_file_handling.ipynb) |

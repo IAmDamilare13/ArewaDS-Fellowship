@@ -30,8 +30,8 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Eleven    |    Completed   | [Python Type Errors and Exception Handling](../ArewaDS-Fellowship/30DaysOfPython/day_11.python_type_errors.ipynb) |
 |     Day Twelve    |    Completed   | [Regular Expressions](../ArewaDS-Fellowship/30DaysOfPython/day_12/regular_expression.ipynb) |
 |     Day Thirteen    |    Completed   | [Python Date Time](../ArewaDS-Fellowship/30DaysOfPython/day_13/python_datetime_file_handling.ipynb) |
-|     Day Fourteen    |    Pending   | [Modules, Virtual Environment]() |
-|     Day Fifteen    |    Pending   | [Python Package Manager]() |
+|     Day Fourteen    |    Completed   | [Modules, Virtual Environment](../ArewaDS-Fellowship/30DaysOfPython/day_14/modules_virtual_environment.ipynb) |
+|     Day Fifteen    |    In Progress   | [Python Package Manager]() |
 |     Day Sixteen    |    Completed   | [Classes and Objects](../ArewaDS-Fellowship/30DaysOfPython/day_16/classes_and_objects.ipynb) |
 |     Day Seventeen    |    Pending   | [Web Scrapping]() |
 |     Day Eighteen    |    Pending   | [Statistics, NumPy and Pandas]() |

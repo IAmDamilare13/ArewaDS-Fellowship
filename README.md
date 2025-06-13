@@ -33,9 +33,11 @@ Knowing fully well that **consistency is key**, each task needs to be completed 
 |     Day Fourteen    |    Completed   | [Modules, Virtual Environment](../ArewaDS-Fellowship/30DaysOfPython/day_14/modules_virtual_environment.ipynb) |
 |     Day Fifteen    |    Completed   | [Python Package Manager](../ArewaDS-Fellowship/30DaysOfPython/day_15/python_package_manager.ipynb) |
 |     Day Sixteen    |    Completed   | [Classes and Objects](../ArewaDS-Fellowship/30DaysOfPython/day_16/classes_and_objects.ipynb) |
+|     Day Seventeen    |    In Progress   | [Web Scrapping and APIs](../ArewaDS-Fellowship/30DaysOfPython/day_17/web_scrapping_and_apis.ipynb) |
+|     Day Eighteen    |    Completed   | [Statistics, Numpy and Pandas](../ArewaDS-Fellowship/30DaysOfPython/day_18/statistics_numpy_pandas.ipynb) |
 
 
-This 30-day Python Challenge (which has been compressed to 16 days) is not just a simple series of exercises, but an opportunity to build better habits and become more proficient in the language. 
+This 30-day Python Challenge (which has been compressed to 18 days) is not just a simple series of exercises, but an opportunity to build better habits and become more proficient in the language. 
 
 This challenge requires dedication and hard work, and it takes great push to stay committed to the challenge. 
 
